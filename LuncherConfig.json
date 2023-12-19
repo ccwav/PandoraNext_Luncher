@@ -1,3 +1,5 @@
 {
-  "Bearer": "" 
+  "Bearer": "获取lic的key",
+  "LicUpdateIP": "",
+  "Base_url": "潘多拉的api网址，例如 https://192.168.1.23:45678/ccwavvip888"
 }
